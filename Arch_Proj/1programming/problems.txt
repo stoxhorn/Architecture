@@ -1,0 +1,27 @@
+
+part 1:
+    OverAll Programming:
+        a: input
+            a1: how to read file
+                    check for an exercise solving this issue
+            a2: how to store data, before sorting
+                ----Check exercises solving something similar
+                    What options do i have for indexing/array- research needed.
+                    How to store coordinates together
+                        How many bits do they require? - 16 bits twos complement - read up on it, just in case
+                        32 bits = 1 pair of coordinates
+                    
+            a3: the second command line he uses, how to do that?
+            a4: 
+
+        b: Sorting numbers
+            b1: Which sorting algorithm
+            b2: How to iterate through algorithm
+            b3: Storing the data being handled
+
+        c: Output
+            c1: how to read data
+            c2: how to print data
+
+
+    

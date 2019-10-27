@@ -1,0 +1,9 @@
+Goals for programming
+
+1. Ability to read a file of coordinates
+    1.a: print contents of file
+    
+    1.b: Converting contents into useable data.
+            Test by printing data/array/buffer
+    
+    1.c: look up how to call method, using the command line he shows

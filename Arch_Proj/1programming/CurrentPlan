@@ -1,0 +1,24 @@
+2: how to store data, before sorting
+        allocate(i), returns a buffer, of length = i*bytes
+
+
+
+        I need to know how many coordinates i'm sorting
+        Get descriptor
+
+            getLineCount(), reads a filedescriptor, and returns amount of line/coordinates
+            also needs to know some size? 
+                Assuming its bytes, then i need to count amount of bytes in desc first
+                getFileSize(i), reads a descriptor in rdi, and returns size in bytes
+            so call getFileSize(Desc)
+            
+                call getLineCount on descriptor
+    
+
+            How much data do i need per coordinate?
+            16*amount of lines = i
+
+                Call allocate(i)
+
+
+

@@ -1,0 +1,32 @@
+1: how to read file
+        check for an exercise solving this issue
+            2.7 
+                      
+Done -------------------------------------------------------------------------------------------
+
+2: how to store data, before sorting
+        i can now store data in a buffer.
+            getLineCount, returns amount stored in rax; a = 10
+
+    
+            How much data do i need per coordinate?
+                Each number fills 8bytes, meaning 16 bytes for 2 numbers
+        
+            I have now allocated enough space for coordinates
+
+            I now need to be able to move bytes to this space            
+
+            How to store coordinates together
+                How many bits do they require? - 16 bits twos complement - read up on it, just in case
+                32 bits = 1 pair of coordinates
+            Supposedly this is now done
+            
+            It is done, however, i do not read tabs, but spaces, as my txt editor will not use the tab character
+Done -------------------------------------------------------------------------------------------
+
+
+                    
+3: the second command line he uses, how to do that?
+4: Implementing insertion sort
+		I can compare two numbers, and exchange spots if one is smaller
+

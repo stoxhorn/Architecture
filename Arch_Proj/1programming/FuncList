@@ -1,0 +1,19 @@
+
+strings:
+    stringLength -- returns length of a string. r8 = counter, 0. rdi = string
+    printString  -- prints a string stored in rdi
+
+Data-parsing:
+    getLineCount -- returns number of lines in a given memory
+    parseData    -- converts ASCII representation of coordinates into pairs of data
+
+Data:
+    allocate  -- retrieves space from OS, to create a buffer, amount is in bytes
+    getDesc   -- Reads rdi as a filename, and returns it as a file descriptor
+
+Printing:
+    printArg   -- Reads rdi as a string, and prints it's contents
+    printFile  -- Reads rdi, as a FileDescriptor, and prints it's contents
+    printDchar -- Reads rdi, as a FileDescriptor, and prints out the next byte, returning 0, if no readable bytes
+    saveDchar  -- Reads rdi, as a FileDescriptor, and returns the next readable byte, returning amount of bytes read, in r8
+    printChar  -- Reads rdi, as a string, and prints the first byte.

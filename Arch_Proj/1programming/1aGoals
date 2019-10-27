@@ -1,0 +1,27 @@
+1: print contents of file
+    1a. A loop going through each character/byte
+            check for end of file
+        7.a reads every byte, and prints out each single byte
+    1b. Print the byte each loop
+------------------ DONE! ---------------------------------------
+
+
+
+2: print stored data from file
+    2a. Creating buffer with appropriate length
+            Make sub-file, only goal is:
+                get fileD
+
+                NB: test if content is lost on filelength
+                get length of fileD
+                                
+                create new buffer, using length
+                
+                move contents, to buffer
+    GOAL: PRINT BUFFER; with right content inside
+
+    2b. converting one line to data
+            Print this data 
+
+    2c. converting all content into data
+            print all data

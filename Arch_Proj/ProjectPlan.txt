@@ -1,0 +1,37 @@
+Project plan:
+-    Read and structure plan for part 1. ======================================== Done!
+-    Write down the problem for each segment ==================================== Done!
+-    Create files, and organize files. ========================================== Done!    
+-    Read through given library ================================================= Done!
+-    Decide on goals for programming each segment, compared to the problems
+
+-    snak med mor om det.
+        - brug for hjælp til at planlægge, det færdigt. og komme i gang med første skridt
+
+
+
+
+
+
+
+
+    
+    Fulfill plan for 1. part, before moving on to 2nd part.
+    write down the problem for part 2
+
+
+    
+
+1. Plan:
+    write the segments into the sort.s file.
+    For each problem, add a corresponding funciton, solving the problem
+        Look for simple acts, that has to be done over multiple times, like storing 2 coordinates together
+    
+    
+
+    program a.
+    program c. 
+    program b.    
+
+    move on to part 2
+
