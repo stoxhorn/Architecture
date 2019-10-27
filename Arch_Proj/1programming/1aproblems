@@ -28,5 +28,10 @@ Done ---------------------------------------------------------------------------
                     
 3: the second command line he uses, how to do that?
 4: Implementing insertion sort
-		I can compare two numbers, and exchange spots if one is smaller
+		one loop with increasing number, limited by amount of coordinates
+			each iteration i swap current number, with prev.
+				do this until prev number is smaller
+
+		I can compare two numbers, and exchange spots if one is smalle
+		
 
